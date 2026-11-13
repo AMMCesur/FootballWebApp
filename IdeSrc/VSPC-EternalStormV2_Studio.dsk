@@ -1,0 +1,30 @@
+[Workspace]
+CurrentProject=WebApp.src
+Location=D:\DataFlex Projects\FootballWebApp2\IdeSrc\VSPC-EternalStormV2_Studio.dsk
+CreateNew=3
+[TabWindows]
+GroupCount=1
+HorizontalGroups=1
+[TabGroup0]
+GroupSize=40
+SelectedTab=1
+[Window0]
+Filename=Workspace Dashboard
+ViewType=101
+Top=21
+Left=0
+Bottom=726
+Right=1428
+TabIndex=0
+TabGroup=0
+[Window1]
+Filename=D:\DataFlex Projects\FootballWebApp2\AppSrc\Dashboard.wo
+ViewType=1
+Top=21
+Left=0
+Bottom=726
+Right=1428
+CursorLine=0
+CursorColumn=0
+TabIndex=1
+TabGroup=0

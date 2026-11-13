@@ -1,0 +1,14 @@
+[Header]
+Mask=*.src;*.vw;*.sl;*.dg;*.rv;*.bp;*.pkg;*.wo;*.dd;*.inc;*.tpl;*.dfo;*.asp;*.asa;*.html;*.css;*.js
+Active=0
+SubDirectories=1
+WholeWordOnly=0
+RegularExpression=0
+SearchWhere=0
+Location=D:\DataFlex Projects\FootballWebApp2\IdeSrc\VSPC-EternalStormV2_FindInFiles.dsk
+[D:\DataFlex Projects\FootballWebApp2\AppSrc]
+IsEnabled=1
+[D:\DataFlex Projects\FootballWebApp2\DDSrc]
+IsEnabled=1
+[D:\DataFlex Projects\FootballWebApp2\AppHtml]
+IsEnabled=1
